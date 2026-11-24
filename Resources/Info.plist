@@ -28,7 +28,7 @@
 	     ★ 改成你自己的域名 -->
 	<key>WKAppBoundDomains</key>
 	<array>
-		<string>example.com</string>
+		<string>https://pkn481.kicp.fun</string>
 	</array>
 
 	<key>UISupportedInterfaceOrientations</key>
